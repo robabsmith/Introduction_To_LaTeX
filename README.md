@@ -7,3 +7,5 @@ If you have any questions or comments you can contact me either via the mail in 
 Best of luck! 
 
 
+UPDATE: For those of you participating in the event on March 6, here is a link to the Sharelatex file that I created during the presentation (updated): https://www.sharelatex.com/4358394573pfnvxcfccskp. You can access the Sharelatex site and copy code to use in your own projects.  
+
